@@ -1,6 +1,6 @@
 # Hello! I'm Joshua! 👋
 
-I am a sophomore computer science student at De La Salle University!
+I am a junior computer science student at De La Salle University!
 I love to code, play guitar, and explore different kinds of tech.
 
 
