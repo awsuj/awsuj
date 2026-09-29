@@ -19,4 +19,4 @@ I love to code, play guitar, and explore different kinds of tech.
 
 ### Contact me!
 - Email: joshua.calibo@yahoo.com
-- LinkedIn: https://www.linkedin.com/in/joshua-calibo-751096222/
+- LinkedIn: https://www.linkedin.com/in/joshua-calibo/
