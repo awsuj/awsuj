@@ -15,7 +15,7 @@ I love to code, play guitar, and explore different kinds of tech.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📊 GitHub Stats
-![Joshua's GitHub stats](https://github-stats-extended.vercel.app/api?awsuj=octocat&theme=radical)
+![Joshua's GitHub stats](https://github-stats-extended.vercel.app/api?username=awsuj&theme=radical)
 
 ### Contact me!
 - Email: joshua.calibo@yahoo.com
